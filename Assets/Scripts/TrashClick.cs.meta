@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6f1175c3b8adf5643a2ba3eed36abb01
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainCamera: {instanceID: 0}
+  - clickMarkerPrefab: {fileID: 9160999043814910147, guid: 9eacc4337ce919d43af054a5a63ef499, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
